@@ -6,10 +6,10 @@ In five courses, I have learned the foundations of Deep Learning, understand how
 
 # 1. Neural Networks and Deep Learning
 
-# 1. Neural Networks and Deep Learning
+# 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-# 1. Neural Networks and Deep Learning
+# 3. Structuring Machine Learning Projects
 
-# 1. Neural Networks and Deep Learning
+# 4. Convolutional Neural Networks
 
-# 1. Neural Networks and Deep Learning
+# 5. Sequence Models
