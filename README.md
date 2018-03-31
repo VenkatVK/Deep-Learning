@@ -8,8 +8,8 @@ In five courses, I have learned the foundations of Deep Learning, understand how
 
 ## Course 2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/VenkatVK/DeepLearning-Andrew-Ng/tree/master/Improving%20Deep%20Neural%20Networks)
 
-## Course 3. [Structuring Machine Learning Projects]()
+## Course 3. [Structuring Machine Learning Projects](https://github.com/VenkatVK/DeepLearning-Andrew-Ng/tree/master/Structuring%20Machine%20Learning%20Projects)
 
-## Course 4. [Convolutional Neural Networks]()
+## Course 4. [Convolutional Neural Networks](https://github.com/VenkatVK/DeepLearning-Andrew-Ng/tree/master/Convolutional%20Neural%20Networks)
 
-## Course 5. [Sequence Models]()
+## Course 5. [Sequence Models](https://github.com/VenkatVK/DeepLearning-Andrew-Ng/tree/master/Sequence%20Models)
